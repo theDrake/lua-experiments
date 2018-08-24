@@ -38,12 +38,3 @@ luac.out
 *.i*86
 *.x86_64
 *.hex
-
-# Windows
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-
-# Mac OS X
-.DS_Store
