@@ -1,2 +1,2 @@
 # lua-experiments
-A repository for my experiments with the Lua programming language.
+A repository for some of my experiments with the [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language)) programming language.
